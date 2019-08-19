@@ -1,0 +1,11 @@
+{
+  "name": "jasmine-line-number-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^3.4.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
